@@ -1,0 +1,2 @@
+# trigonometry
+Excessor core trigonometry
