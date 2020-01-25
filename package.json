@@ -1,8 +1,8 @@
 {
   "name": "excessor-trigonometry",
-  "version": "1.0.4",
+  "version": "1.0.1",
   "description": "Excessor core trigonometry",
-  "main": "out/index.js",
+  "main": "out/trigonometry.js",
   "dependencies": {},
   "devDependencies": {
     "@types/chai": "4.2.4",
