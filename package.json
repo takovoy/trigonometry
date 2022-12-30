@@ -8,7 +8,7 @@
     "@types/chai": "4.2.4",
     "@types/mocha": "5.2.7",
     "chai": "4.2.0",
-    "mocha": "6.2.2",
+    "mocha": "10.2.0",
     "tsconfig-paths": "3.9.0",
     "tspath_ext": "1.3.15",
     "typescript": "3.7.2"
