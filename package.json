@@ -9,7 +9,7 @@
     "@types/mocha": "5.2.7",
     "chai": "4.2.0",
     "mocha": "6.2.2",
-    "tsconfig-paths": "3.9.0",
+    "tsconfig-paths": "3.10.1",
     "tspath_ext": "1.3.15",
     "typescript": "3.7.2"
   },
